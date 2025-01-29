@@ -1,0 +1,11 @@
+IngredientName,CurrentStock,ReorderLevel,StockStatus
+Chocolate,20,5,Sufficient Stock
+Shrimp,20,5,Sufficient Stock
+Beef,25,8,Sufficient Stock
+Chicken,30,5,Sufficient Stock
+Tea Leaves,35,5,Sufficient Stock
+Lemons,40,10,Sufficient Stock
+Cheese,45,10,Sufficient Stock
+Lettuce,50,10,Sufficient Stock
+Buns,50,10,Sufficient Stock
+Pasta,60,15,Sufficient Stock
